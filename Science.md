@@ -1,0 +1,22 @@
+# Maths
+- https://hbpms.blogspot.com/
+- https://plus.maths.org/content/
+- https://nrich.maths.org/students/post-16
+- https://artofmemory.com/mental-math/
+- https://barbaraoakley.com/books/a-mind-for-numbers/
+- http://aleph0.clarku.edu/~djoyce/java/elements/elements.html
+- https://www.youtube.com/@MathAndScience/videos
+- https://www.youtube.com/@ProfessorLeonard
+- https://www.khanacademy.org/
+- https://www.classcentral.com/subject/maths?sort=&level=beginner&lang=english&free-certificate=true
+- https://www.mathsisfun.com/links/index-curriculum.html
+- https://marktomforde.com/academic/mathmajors/textbook-suggestions.html
+- https://leanpub.com/u/lvirgili - https://www.lucasvirgili.com/igcsebook
+- https://www.youtube.com/watch?v=842rgQP_OgI&list=PLBh2i93oe2quABbNq4I_-hyjhW8eOdgrO&index=1
+- https://www.youtube.com/watch?v=pTnEG_WGd2Q
+- 
+# Misc
+- https://www.open.edu/openlearn/stemreboot
+- https://en.wikipedia.org/wiki/Connections_(British_TV_series)
+- https://en.wikipedia.org/wiki/The_Secret_Life_of_Machines
+- https://en.wikipedia.org/wiki/Hypatia

@@ -1,0 +1,3 @@
+- https://kevquirk.com/about
+- https://blogroll.org/
+- 

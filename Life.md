@@ -1,0 +1,5 @@
+- https://prashanthinimande.com/
+- https://www.workaway.info/en/host/19718896644a
+- https://www.amazon.com/Bring-Your-Brain-Work-Cognitive/dp/1633696111
+- https://www.youtube.com/@Coffeezilla/videos
+- 
