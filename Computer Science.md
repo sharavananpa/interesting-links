@@ -45,6 +45,7 @@
 # Misc
 - https://github.com/sindresorhus/awesome
 - https://learnxinyminutes.com/
+- https://devdocs.io/
 - https://devhints.io/
 - https://rosettacode.org/wiki/Rosetta_Code
 - https://www.bigocheatsheet.com/
