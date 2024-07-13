@@ -45,6 +45,8 @@
 # Misc
 - https://github.com/sindresorhus/awesome
 - https://learnxinyminutes.com/
+- https://devhints.io/
+- https://rosettacode.org/wiki/Rosetta_Code
 - https://www.bigocheatsheet.com/
 - https://www.moralmachine.net/
 - pulumi vs terraform
