@@ -48,6 +48,7 @@
 - https://devdocs.io/
 - https://devhints.io/
 - https://rosettacode.org/wiki/Rosetta_Code
+- https://component-party.dev/
 - https://www.bigocheatsheet.com/
 - https://www.moralmachine.net/
 - pulumi vs terraform
